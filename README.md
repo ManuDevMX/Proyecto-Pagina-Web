@@ -2,7 +2,7 @@
 
 Sitio web landing page moderno, rápido y 100% responsivo desarrollado para la marca **ManuDevMX**, enfocado en la presentación de servicios de desarrollo web a la medida y captación de clientes.
 
-🌐 **Demo en vivo:** [https://manudevmx.github.io/Proyecto-Pagina-Web/](https://manudevmx.github.io/Proyecto-Pagina-Web/)
+🌐 **Demo en vivo:** [https://manudevmx.github.io/Proyecto-Pagina-Web/](https://manudevmx.me/)
 
 ---
 
